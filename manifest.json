@@ -1,20 +1,12 @@
 {
-  "server": {
-    "name": "WARGANET INDONESIA ROLEPLAY",
-    "developer": "YeePRO",
-    "host": "217.216.111.29",
-    "port": 7003
-  },
-  "launcher": {
-    "title": "WARGANET Client",
-    "subtitle": "Single Server Client",
-    "manifestUrl": "https://raw.githubusercontent.com/YeeeePRO/warganet-client-data/main/manifest.json",
-    "connectArgumentMode": "samp-url"
-  },
-  "links": {
-    "discord": "https://discord.gg/warganet",
-    "website": "https://warganet-indonesia.com",
-    "tiktok": "https://tiktok.com/@warganetindonesia",
-    "github": "https://github.com/YeeeePRO"
-  }
+  "version": "1.0.0",
+  "notes": "Initial WARGANET modpack release",
+  "files": [
+    {
+      "name": "warganet-client-data",
+      "url": "https://github.com/YeeeePRO/warganet-client-data/releases/download/samp/modpack-1.0.0.zip",
+      "folder": "modloader/WARGANET",
+      "sha256": ""
+    }
+  ]
 }
